@@ -1,2 +1,3 @@
-# etherbank
+# Etherstore
+
 Guardrails test repo
